@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jack Phoenix <jack@countervandalism.net>"
+		]
+	},
+	"prezi-desc": "Mahdollistaa [//prezi.com Prezi.com]-esitysten upottamisen",
+	"prezi-link": "[http://prezi.com/$1 $2] [http://prezi.com Prezissä]",
+	"prezi-presentation": "Prezi-esitys"
+}

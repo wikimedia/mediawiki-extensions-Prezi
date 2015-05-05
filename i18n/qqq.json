@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"prezi-desc": "Brief description about what the extension does; shown on [[Special:Version]] when the extension is installed",
+	"prezi-link": "Parameters:\n\n\n\n* $1 is the Prezi presentation identifier (ID)\n\n* $2 is either the user-supplied link text, or if the user didn't supply a custom link title, then it falls back to [[MediaWiki:Prezi-presentation]]",
+	"prezi-presentation": "Default link title for the presentation link ([[MediaWiki:Prezi-link]]) if the user didn't supply a custom link title"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"prezi-desc": "Ermöglicht die Einbettung von Präsentationen von [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] auf [http://prezi.com Prezi]",
+	"prezi-presentation": "Prezi-Präsentation"
+}

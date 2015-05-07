@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"prezi-desc": "Permite incrustar presentaciones de [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] en [http://prezi.com Prezi]",
+	"prezi-presentation": "Presentación en Prezi"
+}

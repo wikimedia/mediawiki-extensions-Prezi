@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"prezi-desc": "允许来自[//prezi.com Prezi.com]嵌入式演示",
+	"prezi-link": "[http://prezi.com/$1 $2]在[http://prezi.com Prezi]",
+	"prezi-presentation": "Prezi演示"
+}

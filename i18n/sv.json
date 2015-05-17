@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Josve05a"
+			"Josve05a",
+			"Jopparn"
 		]
 	},
 	"prezi-desc": "Tillåter inbäddning av presentationer från [//prezi.com Prezi.com]",
-	"prezi-presentation": "Prezi-Presentation"
+	"prezi-presentation": "Prezi-presentation"
 }

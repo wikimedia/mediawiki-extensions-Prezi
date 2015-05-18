@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Csega"
+		]
+	},
+	"prezi-desc": "Prezentációk beágyazásának engedélyezése a [//prezi.com Prezi.com] webhelyről",
+	"prezi-link": "[http://prezi.com/$1 $2] a [http://prezi.com Prezi] webhelyen",
+	"prezi-presentation": "Prezi prezentáció"
+}

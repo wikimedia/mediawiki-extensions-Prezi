@@ -17,5 +17,6 @@
 		"ParserFirstCallInit": [
 			"PreziTag::registerHook"
 		]
-	}
+	},
+	"manifest_version": 1
 }

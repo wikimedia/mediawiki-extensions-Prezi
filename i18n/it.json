@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"prezi-desc": "Consente di incorporare presentazioni da [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] su [http://prezi.com Prezi]",
+	"prezi-presentation": "Presentazione Prezi"
+}

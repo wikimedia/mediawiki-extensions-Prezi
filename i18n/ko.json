@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bluemersen"
+			"Bluemersen",
+			"아라"
 		]
 	},
-	"prezi-desc": "[//prezi.com Prezi.com]의 프리젠테이션 삽입을 가능하게 합니다",
+	"prezi-desc": "[//prezi.com Prezi.com]에서의 프리젠테이션을 넣을 수 있습니다",
 	"prezi-link": "[http://prezi.com Prezi]의 [http://prezi.com/$1 $2]",
 	"prezi-presentation": "프레지 프리젠테이션"
 }

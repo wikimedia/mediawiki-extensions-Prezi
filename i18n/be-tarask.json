@@ -4,5 +4,6 @@
 			"Red Winged Duck"
 		]
 	},
-	"prezi-desc": "Дазваляе ўбудоўваць прэзэнтацыі з [//prezi.com Prezi.com]"
+	"prezi-desc": "Дазваляе ўбудоўваць прэзэнтацыі з [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] на [http://prezi.com Prezi]"
 }

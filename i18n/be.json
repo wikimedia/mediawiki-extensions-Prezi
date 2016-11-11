@@ -5,5 +5,6 @@
 		]
 	},
 	"prezi-desc": "Дазваляе ўбудоўваць прэзентацыі з [//prezi.com Prezi.com]",
-	"prezi-link": "[http://prezi.com/$1 $2] на [http://prezi.com Prezi]"
+	"prezi-link": "[http://prezi.com/$1 $2] на [http://prezi.com Prezi]",
+	"prezi-presentation": "Прэзентацыя Prezi"
 }

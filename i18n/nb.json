@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"prezi-desc": "Gjør det mulig å bygge inn presentasjoner fra [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] på [http://prezi.com Prezi]",
+	"prezi-presentation": "Prezi-presentasjon"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"prezi-desc": "Permet la incrustació de presentacions de [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] a [http://prezi.com Prezi]",
+	"prezi-presentation": "Presentació del Prezi"
+}

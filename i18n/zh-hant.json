@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Kly"
 		]
 	},
-	"prezi-link": "[http://prezi.com/$1 $2] 於 [http://prezi.com Prezi]"
+	"prezi-desc": "允許來自於 [//prezi.com Prezi.com] 的嵌入演示",
+	"prezi-link": "[http://prezi.com/$1 $2] 於 [http://prezi.com Prezi]",
+	"prezi-presentation": "Prezi 演示"
 }

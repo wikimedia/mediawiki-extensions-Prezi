@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"ديفيد"
+		]
+	},
+	"prezi-desc": "يسمح بتضمين عروض تقديمية من [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] في [http://prezi.com Prezi]",
+	"prezi-presentation": "عرض بريزي"
+}

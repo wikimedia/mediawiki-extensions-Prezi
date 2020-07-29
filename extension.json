@@ -5,6 +5,9 @@
 	"url": "https://www.mediawiki.org/wiki/Extension:Prezi",
 	"descriptionmsg": "prezi-desc",
 	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.34.0"
+	},
 	"MessagesDirs": {
 		"Prezi": [
 			"i18n"

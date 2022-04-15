@@ -1,4 +1,5 @@
 {
+	"name": "Prezi",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"

@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Djiboun",
-			"Jack Phoenix"
+			"Jack Phoenix",
+			"Verdy p"
 		]
 	},
-	"prezi-desc": "Permets l'incorporation des présentations de [//prezi.com Prezi.com]",
+	"prezi-desc": "Permet l’intégration des présentations de [//prezi.com/ Prezi.com]",
 	"prezi-link": "[http://prezi.com/$1 $2] sur [http://prezi.com Prezi]",
 	"prezi-presentation": "Présentation Prezi"
 }

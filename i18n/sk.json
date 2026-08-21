@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"prezi-desc": "Umožňuje vkladať prezentácie z [//prezi.com Prezi.com]",
+	"prezi-link": "[http://prezi.com/$1 $2] na [http://prezi.com Prezi]",
+	"prezi-presentation": "Prezentácia Prezi"
+}
